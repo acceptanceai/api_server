@@ -1,0 +1,27 @@
+{
+  "name": "api_server",
+  "version": "1.0.0",
+  "description": "quick api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acceptanceai/api_server.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "timbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acceptanceai/api_server/issues"
+  },
+  "homepage": "https://github.com/acceptanceai/api_server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemon": "^2.0.3"
+  }
+}
